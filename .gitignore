@@ -1,0 +1,11 @@
+# Node.js dependecias del Frontend
+/frontend/node_modules
+/frontend/build
+
+# .Net Core dependias del Backend
+/backend/bin
+/backend/obj
+
+# general
+.Ds_Store
+.env

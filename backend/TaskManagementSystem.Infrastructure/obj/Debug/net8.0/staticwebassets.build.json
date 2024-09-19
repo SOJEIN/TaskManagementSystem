@@ -1,0 +1,23 @@
+{
+  "Version": 1,
+  "Hash": "xGCQVC9PCpdYxxpVsj8Cfn8vugYfegqofYbPM/jt34U=",
+  "Source": "TaskManagementSystem.Infrastructure",
+  "BasePath": "_content/TaskManagementSystem.Infrastructure",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [
+    {
+      "Identity": "E:\\Pruebas de trabajo\\TaskManagementSystem\\backend\\TaskManagementSystem.Core\\TaskManagementSystem.Core.csproj",
+      "Version": 2,
+      "Source": "TaskManagementSystem.Core",
+      "GetPublishAssetsTargets": "ComputeReferencedStaticWebAssetsPublishManifest;GetCurrentProjectPublishStaticWebAssetItems",
+      "AdditionalPublishProperties": "Configuration=Debug;Platform=AnyCPU",
+      "AdditionalPublishPropertiesToRemove": "WebPublishProfileFile;TargetFramework",
+      "GetBuildAssetsTargets": "GetCurrentProjectBuildStaticWebAssetItems",
+      "AdditionalBuildProperties": "Configuration=Debug;Platform=AnyCPU",
+      "AdditionalBuildPropertiesToRemove": "WebPublishProfileFile;TargetFramework"
+    }
+  ],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}
